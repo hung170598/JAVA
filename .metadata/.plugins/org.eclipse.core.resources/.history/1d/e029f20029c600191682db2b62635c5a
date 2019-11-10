@@ -1,0 +1,13 @@
+
+public class CongNhan extends NhanSu {
+	private XuongSX xuongSX;
+	private String congViec;
+	private int soNgayCong;
+	private double luong;
+	@Override
+	public void input() {
+		// TODO Auto-generated method stub
+		super.input();
+		System.out.println("");
+	}
+}

@@ -1,0 +1,6 @@
+
+public class XuongSX {
+	private String tenXuong;
+	private String quanDoc;
+	private int soCongNhan;
+}
