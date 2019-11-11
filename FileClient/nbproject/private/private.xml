@@ -3,9 +3,9 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/E:/Java/FileServer/src/view/ServerView.java</file>
-            <file>file:/E:/Java/FileServer/src/controler/LoginController.java</file>
-            <file>file:/E:/Java/FileServer/src/controler/ConnectDB.java</file>
+            <file>file:/E:/Java/FileClient/src/model/Account.java</file>
+            <file>file:/E:/Java/FileClient/src/control/LoginControler.java</file>
+            <file>file:/E:/Java/FileClient/src/ClientRun.java</file>
         </group>
     </open-files>
 </project-private>
